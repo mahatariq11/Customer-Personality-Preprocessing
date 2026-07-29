@@ -1,0 +1,7 @@
+Validation Check,Status
+Missing Values,PASS
+Duplicate Rows,PASS
+Duplicate IDs,PASS
+Data Types,PASS
+Dates,PASS
+Categories,PASS
